@@ -141,3 +141,11 @@ button:hover {
     color: #9ca3af;
     font-size: 14px;
 }
+
+footer {
+    position: fixed;
+    bottom: 20px;
+
+    color: #6b7280;
+    font-size: 12px;
+}
