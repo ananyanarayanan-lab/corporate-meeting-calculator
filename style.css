@@ -145,6 +145,10 @@ button:hover {
 footer {
     position: fixed;
     bottom: 20px;
+    left: 0;
+    width: 100%;
+
+    text-align: center;
 
     color: #6b7280;
     font-size: 12px;
